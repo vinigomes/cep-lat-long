@@ -19,3 +19,4 @@ ipython
 psycopg2-binary
 boto
 flask-cors
+googlemaps
